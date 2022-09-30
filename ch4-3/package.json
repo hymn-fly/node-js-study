@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "ndb": "^1.1.5"
+  },
+  "name": "ch4-3",
+  "version": "1.0.0",
+  "description": "node.js start ch4.3",
+  "main": "cookie2.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo $PATH"
+  },
+  "author": "geuno",
+  "license": "ISC"
+}
